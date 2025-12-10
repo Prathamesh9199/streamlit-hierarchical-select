@@ -8,6 +8,9 @@ A modern, high-performance hierarchical selection component for Streamlit, inspi
 - ✅ **Tri-State Logic**: Correctly handles "Indeterminate" states (partially selected parents).
 - 🎨 **Modern UI**: Clean, Anthropic-inspired design that blends seamlessly with Streamlit.
 
+## Looks
+<img width="858" height="470" alt="image" src="https://github.com/user-attachments/assets/d049ca1b-d2fa-4e86-8f76-d3f9858255d6" />
+
 ## Installation
 
 ```bash
